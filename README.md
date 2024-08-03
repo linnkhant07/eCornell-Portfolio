@@ -36,7 +36,8 @@ The dataset used for this project includes the following features:
 You can install the necessary packages using pip:
 
 ```bash
-pip install pandas numpy scikit-learn matplotlib seaborn```
+pip install pandas numpy scikit-learn matplotlib seaborn
+```
 
 ### Running the Model
 
